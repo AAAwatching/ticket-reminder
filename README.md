@@ -1,6 +1,6 @@
 # ttm抢票提醒器
 
-这是一个基于 Python 的应用程序，适用于https://ticketmaster.sg/，旨在监控指定网站的门票可用性，并在选定区域有票时发送电子邮件通知。它使用 Playwright 进行网页抓取，并使用 Pydantic 进行配置管理。
+这是一个基于 Python 的应用程序，适用于(https://ticketmaster.sg/) ，旨在监控指定网站的门票可用性，并在选定区域有票时发送电子邮件通知。它使用 Playwright 进行网页抓取，并使用 Pydantic 进行配置管理。
 
 ## 功能
 
